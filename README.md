@@ -8,7 +8,7 @@
 
 # Dark Mode
 
-![ ] (./public/Dashboard1.png)
+![ ](./public/Dashboard1.png)
 
 # Pages Section
 
