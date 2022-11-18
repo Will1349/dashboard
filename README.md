@@ -1,6 +1,6 @@
 # Dashboard made with React.js and SyncFusion
 
-# dashboard-javascript-and-syncfusion.netlify.app
+# [dashboard-javascript-and-syncfusion.netlify.app](https://dashboard-javascript-and-syncfusion.netlify.app/)
 
 # Light Mode
 
